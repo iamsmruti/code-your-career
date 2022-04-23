@@ -10,7 +10,7 @@ const About = () => {
                     <p>I am Smruti Ranjan Badatya, a Computer Science Undergrad.</p>
                     <p>Made this project while Learning Next.js</p>
                     <p>Find me on Insta <a href='https://www.instagram.com/__iamsmruti'>@__iamsmruti</a></p>
-                    <p>Link to the Github Repo - <a href=''>Link</a></p>
+                    <p>Link to the Github Repo - <a href='https://github.com/iamsmruti/code-your-career'>Link</a></p>
                     <pre><p>Thanks For Visiting   ; )</p></pre>
                 </div>
             </div>
