@@ -189,6 +189,16 @@ body{
   }
 
   .hero-info{
+    margin-top: 3rem;
+    padding: 0 0rem;
+  }
+
+  .about-info{
+    margin-top: 3rem;
+    margin-left: 0;
+  }
+
+  .hero-info{
     width: 100%;
   }
 

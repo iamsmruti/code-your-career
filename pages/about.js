@@ -4,7 +4,7 @@ const About = () => {
     return (
         <div>
             <div className="about-div">
-                    <img src='https://i.vimeocdn.com/video/321165511-86d16a83e794bd9ddf79c0982b06e5daa01221899dcf66a350a9e05bb6a31a23-d?mw=1000&mh=563&q=70' />
+                    <Image src='/1.jpeg' width={480} height={300} alt='asset-2'/>
                 <div className="about-info">
                     <h2>About</h2>
                     <p>I am Smruti Ranjan Badatya, a Computer Science Undergrad.</p>

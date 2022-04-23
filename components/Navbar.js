@@ -4,8 +4,8 @@ import Link from 'next/link';
 const Navbar = () => {
     return (
         <div className="navbar">
-            <Link href='/' className="logo">
-                <Image src='/code-your-life.png' width={150} height={75}/>
+            <Link href='/' className="logo" passHref>
+                <Image src='/code-your-life.png' width={150} height={75} alt='Code-your-career Logo'/>
             </Link>
             <div className='menu'>
                 <Link href='/'>
